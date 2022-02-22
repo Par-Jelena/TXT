@@ -1,0 +1,7 @@
+Skills to be learned on the course
+	1. Bash
+	2. Git
+	3. Postman
+	4. Python
+	5. SQL
+	6. Jmeter
